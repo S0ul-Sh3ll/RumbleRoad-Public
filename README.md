@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="index.html"><b>Privacy Policy</b></a>
+  <a href="PRIVACY.md"><b>Privacy Policy</b></a>
   &nbsp;·&nbsp;
   <a href="mailto:rishabhdahiya.work@gmail.com"><b>Contact</b></a>
 </p>
@@ -79,10 +79,10 @@ Upgrade from the humble **Rat 250** to a café racer, a demon streetfighter and 
 
 ## 🔒 Privacy
 
-Rumble Road has **no accounts and no sign-in**. Your progress is saved only on your phone. The game shows a small banner ad during races (Google AdMob). Read the full **[Privacy Policy](index.html)**.
+Rumble Road has **no accounts and no sign-in**. Your progress is saved only on your phone. The game shows a small banner ad during races (Google AdMob). Read the full **[Privacy Policy](PRIVACY.md)**.
 
 ## ✉️ Contact
 
 Questions, feedback or privacy requests: **[rishabhdahiya.work@gmail.com](mailto:rishabhdahiya.work@gmail.com)**
 
-<p align="center"><sub>This repository hosts the public privacy policy page (<code>index.html</code>, served by GitHub Pages) and this project page.</sub></p>
+<p align="center"><sub>This repository hosts the Rumble Road project page and its <a href="PRIVACY.md">privacy policy</a>.</sub></p>
